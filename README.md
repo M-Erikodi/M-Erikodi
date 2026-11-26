@@ -1,9 +1,9 @@
 # Alo 👋🏾 I'm **Michael**
 
 Engineering student and aspiring software engineer who loves building fun projects.
-Also a private tutor, helping students get to grips with maths and science.
+Also a private tutor, helping students get to grips with Maths, Computer Science and Physics.
 
-## Get in Touch
+## Social Platforms
 
 | | |
 |---|---|
