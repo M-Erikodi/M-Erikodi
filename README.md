@@ -14,4 +14,4 @@ Also a private tutor, helping students get to grips with maths and science.
 
 ## 🎧 Currently Listening
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ufuz3kugqryv99jnzxbc6jd45&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ufuz3kugqryv99jnzxbc6jd45&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=light&bar_color=b14e88&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
