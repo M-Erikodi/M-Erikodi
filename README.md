@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there 👋 I'm **Michael Erikodi**
 
-<!--
-**M-Erikodi/M-Erikodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering student and aspiring software engineer who loves building fun projects.
+Also a private tutor, helping students get to grips with maths and science.
 
-Here are some ideas to get you started:
+## Get in Touch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| | |
+|---|---|
+| Email | merikodi11@gmail.com |
+| LinkedIn | [Michael Erikodi](https://www.linkedin.com/in/michael-erikodi-322380280/) |
+| GitHub | [@M-Erikodi](https://github.com/M-Erikodi) |
+
+![Profile views](https://komarev.com/ghpvc/?username=M-Erikodi)
